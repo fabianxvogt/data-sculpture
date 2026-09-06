@@ -35,7 +35,8 @@
 ## Release record
 
 - State: verification after repair; independent review still required
-- Try it: local static Vite build; hosting not performed by this worker
+- Try it: local static Vite build; private Site version 1 prepared, not deployed
+- Source: reviewed source and docs published at `fabianxvogt/data-sculpture`; the Site remains private, unpublished, and browser-pending
 - Compute: browser-only, bounded to 1 MB / 5,000 rows / 32 fields
 - Persistence/export: `.dsproj` v1, GLB 2.0 binary, OBJ + MAP, PNG
 - Classification: INCREMENTAL (EMPIRICAL verification in `test/core.test.js`; no novelty claim)

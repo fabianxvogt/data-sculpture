@@ -4,6 +4,8 @@ Catalog 63 · a local-first editor for turning understandable data mappings into
 
 **Status:** verification-ready v1. The first interaction opens the synthetic Tidal Archive example, showing a live mesh immediately. Change any mapping and the sculpture responds. Import bounded CSV/JSON, inspect retained rows and missing/extreme values, save a versioned `.dsproj`, reopen it, and export GLB, OBJ + MAP, or PNG.
 
+**Source publication:** the reviewed source and documentation are published at [fabianxvogt/data-sculpture](https://github.com/fabianxvogt/data-sculpture). The Site remains private with version 1 prepared but not deployed; browser checks for fit, exports, and narrow layouts are still pending.
+
 ## Run
 
 ```sh
