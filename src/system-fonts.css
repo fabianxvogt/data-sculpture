@@ -1,0 +1,14 @@
+:root {
+  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.eyebrow,
+.canvas-label,
+.render-badge,
+.stage-foot,
+table,
+.mini-line,
+.map-control select,
+.control-row select {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}

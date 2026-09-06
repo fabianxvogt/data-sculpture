@@ -1,0 +1,25 @@
+@media (max-width: 780px) {
+  body { min-width: 0; }
+  .topbar { min-height: 76px; height: auto; padding: 15px 16px; gap: 14px; flex-wrap: wrap; }
+  .top-actions { flex-wrap: wrap; }
+  .workspace { display: grid; grid-template-columns: minmax(0, 1fr); min-height: 0; }
+  .sidebar { padding: 20px 16px; }
+  .left, .right { border: 0; }
+  .left { border-bottom: 1px solid var(--line); }
+  .right { border-top: 1px solid var(--line); }
+  .stage { min-width: 0; padding: 24px 16px 18px; }
+  .stage h2 { font-size: 24px; }
+  .canvas-shell { min-height: 52vh; height: 52vh; flex: none; margin-top: 16px; }
+  .table-wrap { max-height: 220px; }
+  .mapping, .composition, .exports { max-width: none; }
+}
+
+@media (max-width: 440px) {
+  .brand strong { font-size: 12px; }
+  .top-actions { width: 100%; }
+  .top-actions > * { flex: 1 1 auto; text-align: center; }
+  .stage-head { gap: 12px; }
+  .stage-tools { flex-shrink: 0; }
+  .canvas-shell { min-height: 420px; height: 58vh; }
+  .canvas-label { font-size: 9px; }
+}
