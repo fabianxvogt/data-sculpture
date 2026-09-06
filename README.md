@@ -4,7 +4,7 @@ Catalog 63 · a local-first editor for turning understandable data mappings into
 
 **Status:** verification-ready v1. The first interaction opens the synthetic Tidal Archive example, showing a live mesh immediately. Change any mapping and the sculpture responds. Import bounded CSV/JSON, inspect retained rows and missing/extreme values, save a versioned `.dsproj`, reopen it, and export GLB, OBJ + MAP, or PNG.
 
-**Source and public preview:** the reviewed source and documentation are published at [fabianxvogt/data-sculpture](https://github.com/fabianxvogt/data-sculpture). The [public Site](https://data-sculpture.fabian523417.chatgpt.site) runs historical Site version 1 from product source `1054244c830d083de083339f6f5a1dfdd31662a9`. Native reopen, narrow-layout, and one-step Fit clarification checks remain unobserved.
+**Source and public preview:** the reviewed source and documentation are published at [fabianxvogt/data-sculpture](https://github.com/fabianxvogt/data-sculpture). The [public Site](https://data-sculpture.fabian523417.chatgpt.site) runs historical Site version 1 from product source `1054244c830d083de083339f6f5a1dfdd31662a9`. A fresh isolated CSS viewport check at `390×844` loaded the synthetic example and passed immediate Fit: the `356×487.515625` canvas sat at `left=17`, `right=373` with the complete mesh inside. Plotter Garden and Impossible Type public explicit Reopen behavior was intentional and observed. Native import/project reopen, broader device coverage, performance, and full-v1 limits remain open.
 
 ## Run
 

@@ -16,6 +16,7 @@
 - [x] Responsive stacked layout and aspect-aware padded camera fit
 - [x] Centered projected-bound fit for asymmetric narrow viewports
 - [x] Fitted-view intent survives aspect resize without overriding manual camera edits
+- [x] Fresh isolated `390×844` CSS viewport: immediate Data Sculpture Fit pass; Plotter/Impossible public explicit Reopen observed
 
 ## Next
 
@@ -36,7 +37,7 @@
 
 - State: public preview from the accepted release; browser limits remain explicit
 - Try it: [public static Site](https://data-sculpture.fabian523417.chatgpt.site), deployed from historical Site version 1 / product source `1054244c830d083de083339f6f5a1dfdd31662a9`
-- Source: reviewed source and docs published at `fabianxvogt/data-sculpture`; native reopen, narrow layout, and one-step Fit clarification remain unobserved
+- Source: reviewed source and docs published at `fabianxvogt/data-sculpture`; fresh isolated `390×844` CSS viewport Fit passed, while native import/project reopen, broader device coverage, performance, and full-v1 remain open
 - Compute: browser-only, bounded to 1 MB / 5,000 rows / 32 fields
 - Persistence/export: `.dsproj` v1, GLB 2.0 binary, OBJ + MAP, PNG
 - Classification: INCREMENTAL (EMPIRICAL verification in `test/core.test.js`; no novelty claim)
