@@ -34,9 +34,9 @@
 
 ## Release record
 
-- State: verification after repair; independent review still required
-- Try it: local static Vite build; private Site version 1 prepared, not deployed
-- Source: reviewed source and docs published at `fabianxvogt/data-sculpture`; the Site remains private, unpublished, and browser-pending
+- State: public preview from the accepted release; browser limits remain explicit
+- Try it: [public static Site](https://data-sculpture.fabian523417.chatgpt.site), deployed from historical Site version 1 / product source `1054244c830d083de083339f6f5a1dfdd31662a9`
+- Source: reviewed source and docs published at `fabianxvogt/data-sculpture`; native reopen, narrow layout, and one-step Fit clarification remain unobserved
 - Compute: browser-only, bounded to 1 MB / 5,000 rows / 32 fields
 - Persistence/export: `.dsproj` v1, GLB 2.0 binary, OBJ + MAP, PNG
 - Classification: INCREMENTAL (EMPIRICAL verification in `test/core.test.js`; no novelty claim)

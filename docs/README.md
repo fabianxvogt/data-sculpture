@@ -8,4 +8,4 @@ The implementation is intentionally local-first: `src/core.js` contains bounded 
 
 ## Publication status
 
-The reviewed source and documentation are public at `fabianxvogt/data-sculpture`. The prepared Site version remains private and undeployed. Fit presentation, GLB/OBJ/PNG/MAP export behavior, and narrow-width browser behavior remain explicit browser gates.
+The reviewed source and documentation are public at `fabianxvogt/data-sculpture`. The [public Site](https://data-sculpture.fabian523417.chatgpt.site) deploys historical Site version 1 from product source `1054244c830d083de083339f6f5a1dfdd31662a9`. Native reopen, narrow-width behavior, and the one-step Fit clarification remain unobserved; HTTP asset correspondence is recorded separately from browser acceptance.
