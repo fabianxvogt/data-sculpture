@@ -1,3 +1,13 @@
+<!-- portfolio
+{
+  "title": "Data Sculpture",
+  "topic": "Creative tools/Generative art",
+  "type": "product",
+  "description": "Turn datasets into sculptural 3D forms.",
+  "demo": "https://data-sculpture.fabian523417.chatgpt.site"
+}
+-->
+
 # Data Sculpture
 
 Catalog 63 · a local-first editor for turning understandable data mappings into expressive three-dimensional forms.
